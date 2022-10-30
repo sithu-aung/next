@@ -1,3 +1,3 @@
-# shop
+# Next
 
 A Next Flutter project.
